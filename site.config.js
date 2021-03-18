@@ -12,7 +12,7 @@ module.exports = {
   author: 'Nicola Toledo',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'Crea la tua Startup in modo intelligente',
   socialImageTitle: 'Nicola Toledo Blog',
   socialImageSubtitle: 'Hello World! 👋',
 
